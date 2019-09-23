@@ -7,7 +7,7 @@ sections:
       gouache, ink, and watercolors. Here you can see my artwork and can buy
       sort of my works such as book covers, posters, t-shirts, and book making.
     section_id: ''
-    title: Welcome to Pagarmangkok
+    title: ''
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
