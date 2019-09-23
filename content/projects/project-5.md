@@ -1,6 +1,6 @@
 ---
-title: Project Title 5
-subtitle: Optional Project Subtitle
+title: Siapa Sebenarnya Ajengan Hamid Sebelum Diburu Anjing-Anjing?
+subtitle: Sehimpun Cerita Oleh Restu A Putra
 date: '2019-01-05'
 thumb_img_path: /images/siapakah-ajengan-hamid-pagarmangkok-book-cover-design-2.jpg
 content_img_path: /images/siapakah-ajengan-hamid-pagarmangkok-book-cover-design.jpg
