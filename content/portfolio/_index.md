@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Short of my book cover design
 layout_style: tiles
 menu:
   main:
