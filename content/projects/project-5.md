@@ -2,8 +2,8 @@
 title: Project Title 5
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_img_path: images/5_thumb.jpg
-content_img_path: images/5.jpg
+thumb_img_path: /images/siapakah-ajengan-hamid-pagarmangkok-book-cover-design-2.jpg
+content_img_path: /images/siapakah-ajengan-hamid-pagarmangkok-book-cover-design.jpg
 layout: project
 ---
 
