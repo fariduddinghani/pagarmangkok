@@ -11,7 +11,7 @@ params:
         text: ''
         url: ''
   header:
-    has_nav: false
+    has_nav: true
     logo_img: ''
     title: Pagarmangkok
 disableKinds:
