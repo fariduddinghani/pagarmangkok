@@ -1,6 +1,6 @@
 ---
 title: at a Glance
-subtitle: This is a short page about us and our work.
+subtitle: This is a short page about me and my space
 img_path: ''
 menu:
   main:
