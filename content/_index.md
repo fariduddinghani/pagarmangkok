@@ -3,6 +3,9 @@ title: Home
 sections:
   - component: hero_block.html
     content: >-
+      ![](/images/pagarmangkok.png)
+
+
       Pagarmangkok is an illustrator based in Indonesia. I work mainly with
       gouache, ink, and watercolors. Here you can see my artwork and can buy
       sort of my works such as book covers, posters, t-shirts, and book making.
