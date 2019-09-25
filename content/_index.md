@@ -16,7 +16,7 @@ sections:
     layout_style: tiles
     num_projects_displayed: 4
     section_id: latest-projects
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Recent Work
     type: portfolioblock
     view_all_text: View All
