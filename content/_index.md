@@ -13,7 +13,7 @@ sections:
     title: ''
     type: heroblock
   - component: portfolio_block.html
-    layout_style: mosaic
+    layout_style: tiles
     num_projects_displayed: 4
     section_id: latest-projects
     subtitle: An optional subtitle of the section
@@ -22,8 +22,8 @@ sections:
     view_all_text: View All
     view_all_url: portfolio/index.html
   - component: contact_block.html
-    section_id: contact
-    subtitle: An optional subtitle of the section
+    section_id: ''
+    subtitle: ''
     title: Contact Us
     type: contactblock
 menu:
