@@ -1,18 +1,21 @@
 ---
-title: About Us
+title: at a Glance
 subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+img_path: ''
 menu:
   main:
     name: About
     weight: 4
 layout: page
 ---
+**Pagarmangkok** is a space created by Fariduddin Ghani to archive and sell book cover design works independently. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+farid is an alumni of visual communication design graduate from Indonesian Institute of the Arts, Yogyakarta
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+now, he's domiciled in Yogyakarta - Indonesia and focus doing some works related to illustration and upcycle merchandise.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+\_\_\_\_\_\__
 
-*Thank You for reading!*
+**How my methode to designing book cover design?**
+
+In designing book covers, I started by reading the script, then imagining the nuance, after that I just made a cover design. For me, this interpretation process is important in designing book covers. In addition to being not easily swept away in the current visual trend, it is also better able to bring the contents of the book closer to its readers.
