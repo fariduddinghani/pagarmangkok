@@ -4,7 +4,12 @@
       "type": "instagram",
       "title": "Instagram",
       "icon": "fa-instagram",
-      "url": "https://www.instagram.com/@_pagarmangkok_"
+      "url": "https://www.instagram.com/_pagarmangkok_"
+    },
+    {
+      "title": "Facebook",
+      "icon": "fa-Facebook",
+      "url": "https://www.facebook.com/_pagarmangkok_"
     }
   ]
 }
