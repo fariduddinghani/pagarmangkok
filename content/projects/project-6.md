@@ -2,8 +2,8 @@
 title: Project Title 6
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
-thumb_img_path: images/6_thumb.jpg
-content_img_path: images/6.jpg
+thumb_img_path: /images/coba2.png
+content_img_path: /images/coba.png
 layout: project
 ---
 
