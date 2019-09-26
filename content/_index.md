@@ -15,7 +15,7 @@ sections:
   - component: portfolio_block.html
     layout_style: tiles
     num_projects_displayed: 4
-    section_id: latest-projects
+    section_id: ''
     subtitle: ''
     title: Recent Work
     type: portfolioblock
