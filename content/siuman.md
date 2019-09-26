@@ -1,6 +1,6 @@
 ---
-title: Project
-subtitle: Siuman
+title: Siuman
+subtitle: ''
 menu:
   main:
     name: Project
