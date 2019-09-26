@@ -1,10 +1,10 @@
 ---
 title: Siuman
-subtitle: (rose from the waste)
+subtitle: ''
 menu:
   main:
     name: Project
     weight: 3
 layout: page
 ---
-****
+Siuman is a fun project by me and my best partner Tri Mukti Yuliana in optimizing the environment around us, including recycling industrial waste.
