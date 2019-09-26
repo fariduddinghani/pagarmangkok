@@ -12,9 +12,7 @@ layout: page
 
 **Pagarmangkok** is a little space created by Fariduddin Ghani to archive and sell her book cover design works independently. 
 
-Farid is an bachelor of Visual Communication Design (Faculty of Visual Art) from Indonesian Institute of the Arts, Yogyakarta
-
-He has a hobby of playing badminton, biking, main chess, mountain hiking, and reading book.
+Farid is an bachelor of Visual Communication Design (Faculty of Visual Art) from Indonesian Institute of the Arts, Yogyakarta. He has a hobby of playing badminton, biking, main chess, mountain hiking, and reading book.
 
 Now, he's domiciled in Yogyakarta - Indonesia and focus doing some works related to illustration and upcycle project.
 
