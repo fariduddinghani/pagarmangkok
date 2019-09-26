@@ -10,7 +10,7 @@ layout: page
 ---
 \_\_\_\_\_\__
 
-**Pagarmangkok** is a space created by Fariduddin Ghani to archive and sell book cover design works independently. 
+**Pagarmangkok** is a little space created by Fariduddin Ghani to archive and sell her book cover design works independently. 
 
 Farid is an bachelor of Visual Communication Design (Faculty of Visual Art) from Indonesian Institute of the Arts, Yogyakarta
 
