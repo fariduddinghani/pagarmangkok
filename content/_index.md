@@ -21,11 +21,6 @@ sections:
     type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html
-  - component: contact_block.html
-    section_id: ''
-    subtitle: ''
-    title: Contact Us
-    type: contactblock
 menu:
   main:
     name: Home
