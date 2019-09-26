@@ -14,9 +14,12 @@ layout: page
 
 Farid is an bachelor of Visual Communication Design (Faculty of Visual Art) from Indonesian Institute of the Arts, Yogyakarta
 
-He has a hobby of playing badminton, biking, main chess, mountain hiking, and reading book.
+He has a hobby of playing
+ badminton, biking, main
+ chess, mountain hiking, and
+ reading book.
 
-Now, he's domiciled in Yogyakarta - Indonesia and focus doing some works related to illustration and upcycle merchandise.
+Now, he's domiciled in Yogyakarta - Indonesia and focus doing some works related to illustration and upcycle project.
 
 \_\_\_\_\_\__
 
