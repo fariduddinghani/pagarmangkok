@@ -6,5 +6,6 @@ menu:
     weight: 5
 layout: contact
 ---
+Thank you so much for your interest in working together. Please fill the contact form below:
 
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+ or send us an email at pagarmangkok.book@gmail.com
