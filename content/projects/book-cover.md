@@ -1,6 +1,6 @@
 ---
 title: Book Cover (Poetry)
-subtitle: Some book cover designs that I have been working on
+subtitle: Some book cover designs that I have been working with interpreting poetry
 date: 2019-10-09T17:00:00.000Z
 thumb_img_path: /images/sulpicia-poetry.jpg
 layout: project
