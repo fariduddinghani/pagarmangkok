@@ -7,6 +7,6 @@ thumb_img_path: >-
 content_img_path: /images/si-konsultan-cinta-dan-anjing-yang-bahagia-pagarmangkok-book-cover.png
 layout: project
 ---
-![dsfdfdfddfdfd](/images/10.jpg "fdfdfdgfhgjhgjh")
+![dsfdfdfddfdfd]( "fdfdfdgfhgjhgjh")
 
 ![](/images/dear-anna-pagarmangkok-book-cover-design-2.jpg)
