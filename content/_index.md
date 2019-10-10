@@ -13,15 +13,6 @@ sections:
     section_id: ''
     title: ''
     type: heroblock
-  - component: portfolio_block.html
-    layout_style: tiles
-    num_projects_displayed: 4
-    section_id: ''
-    subtitle: ''
-    title: Recent Work
-    type: portfolioblock
-    view_all_text: View All
-    view_all_url: portfolio/index.html
 menu:
   main:
     name: Home
