@@ -7,4 +7,6 @@ thumb_img_path: >-
 content_img_path: /images/si-konsultan-cinta-dan-anjing-yang-bahagia-pagarmangkok-book-cover.png
 layout: project
 ---
+![](/images/elit-politik-di-di-tulungrejo-pare-pagarmangkok-book-cover-design.jpg)
 
+![](/images/dear-anna-pagarmangkok-book-cover-design-2.jpg)
