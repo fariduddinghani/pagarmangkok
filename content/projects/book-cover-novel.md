@@ -10,8 +10,7 @@ menu:
 layout: project
 ---
 In my opinion, the process of interpreting a novel to visual artwork is easier than a poetry. This is because a novel story has a long but interrelated setting in each chapter. The harmony between these stories makes the puzzle pieces in my imagination easy to assemble. Very different from a compilation of poetry books that tend to be separate between one poetry and another.
-
-~~~
+______
 
 ![](/images/cinta-tak-sebencanda-itu-pagarmangkok-book-cover-design.jpg)
 
