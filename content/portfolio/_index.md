@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Short of my book cover design
+subtitle: Short of my artwork
 layout_style: tiles
 menu:
   main:
