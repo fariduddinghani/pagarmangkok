@@ -8,6 +8,6 @@ layout: project
 
 ![](/images/elite-politik-di-tulungrejo-pare-pagarmangkok-book-cover-design.jpg)
 
-![](/images/membaca-jawa-book-cover-design-pagarmangkok.jpg)
+![](/images/cerita-jawa-pagarmangkok-book-cover-design.jpg)
 
 ![](/images/distorsi-harmoni.jpg)
