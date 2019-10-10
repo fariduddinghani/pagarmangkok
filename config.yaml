@@ -4,7 +4,7 @@ params:
   accent_color: pink
   color_scheme: dark
   footer:
-    content: '&copy; Pagarmangkok. All rights reserved.'
+    content: '&copy; Pagarmangkok. All rights reserved'
     has_social: true
     links:
       - new_window: true
@@ -13,6 +13,6 @@ params:
   header:
     has_nav: true
     logo_img: ''
-    title: Pagarmangkok
+    title: <font size="2">Pagarmangkok 2</font><br>
 disableKinds:
   - RSS
