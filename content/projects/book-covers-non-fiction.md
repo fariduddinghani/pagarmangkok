@@ -4,7 +4,7 @@ date: 2019-10-06T21:18:25.416Z
 thumb_img_path: /images/membaca-jawa-book-cover-design-pagarmangkok.jpg
 layout: project
 ---
-![]()
+______
 
 ![](/images/elite-politik-di-tulungrejo-pare-pagarmangkok-book-cover-design.jpg)
 
