@@ -1,10 +1,10 @@
 ---
-title: Portfolio
+title: Artwork
 subtitle: Short of my artwork
 layout_style: tiles
 menu:
   main:
-    name: Portfolio
+    name: Artwork
     weight: 3
 layout: portfolio
 ---
