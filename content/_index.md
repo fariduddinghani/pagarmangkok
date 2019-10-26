@@ -3,7 +3,7 @@ title: Home
 sections:
   - component: hero_block.html
     content: >-
-      ![](/images/pagarmangkok.png)
+      ![](/images/pagarmangkok-logo.png)
 
 
       <center>Pagarmangkok is an illustrator based in Indonesia. He work mainly
