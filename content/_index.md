@@ -6,10 +6,10 @@ sections:
       ![](/images/pagarmangkok.png)
 
 
-      <center>Pagarmangkok is an illustrator based in Indonesia. He work mainly
-      with gouache, ink, and watercolors. Here you can see her artwork and can
-      buy sort of her works such as book covers, posters and upcycle book
-      sewing.</center>
+      <center>Pagarmangkok is an illustrator's page based in Indonesia. He works
+      mainly with gouache, ink, and watercolor. Here you can find his artworks
+      and can buy them, such as book covers, posters and upcycle book
+      binding.</center>
     section_id: ''
     title: ''
     type: heroblock
