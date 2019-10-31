@@ -7,6 +7,6 @@ menu:
     weight: 3
 layout: page
 ---
-Siuman is a fun collaboration by me and my best partner Tri Mukti Yuliana in optimizing the environment around us, include upcycling industrial waste to made book sewing.
+Siuman is a fun collaboration beetwen me and my best partner Tri Mukti Yuliana by optimizing the environment around us, including upcycling industrial waste to made book binding.
 
-To see some products by this project, you can see at shop page.
+To see our product, you can check the shop page.
