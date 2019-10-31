@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Short of my artwork
+subtitle: ''
 layout_style: tiles
 menu:
   main:
