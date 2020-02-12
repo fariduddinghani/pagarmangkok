@@ -12,7 +12,7 @@ params:
         url: ''
   header:
     has_nav: true
-    logo_img: /images/pagarmangkok-logotype.png
+    logo_img: /images/pagarmangkok_hearder.png
     title: Pagarmangkok
 disableKinds:
   - RSS
