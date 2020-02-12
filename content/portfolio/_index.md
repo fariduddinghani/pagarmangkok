@@ -4,7 +4,7 @@ subtitle: ''
 layout_style: tiles
 menu:
   main:
-    name: Portfolio
+    name: ''
     weight: 3
 layout: portfolio
 ---
