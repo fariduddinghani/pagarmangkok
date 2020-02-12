@@ -2,7 +2,7 @@ title: Pagarmangkok
 baseURL: /
 params:
   accent_color: blue
-  color_scheme: dark
+  color_scheme: light
   footer:
     content: '&copy; Pagarmangkok. All rights reserved'
     has_social: true
